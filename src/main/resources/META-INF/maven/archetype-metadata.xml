@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<archetype-descriptor name="mvn-archetype-web-2017">
+    <fileSets>
+        <fileSet filtered="true">
+            <directory>src</directory>
+            <includes>
+                <include>**</include>
+            </includes>
+        </fileSet>
+    </fileSets>
+</archetype-descriptor>
